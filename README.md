@@ -6,11 +6,13 @@
 
 ### 🚧[無駄に過保護なスマートウォッチヘルス管理アプリ](https://github.com/U3cSeroH1/sutegokappu_mudanimarumaru)
  * ハックツハッカソン ステゴカップに向けたアプリ
+ * [ハックツ様のサイトでの紹介](https://topaz.dev/projects/d8fe6c5e3e57f73f58f0)
 
-### [ポートフォリオサイト](https://github.com/U3cSeroH1/myIntroPage)
- * 今までに作ったものをかっこよく陳列するサイト
+### 🚧[ポートフォリオサイト](https://github.com/U3cSeroH1/myIntroPage)
+ * 今までに作ったものをかっこよく陳列する目的で作ったサイト
+ * [実働ページ](https://clever-joliot-38506f.netlify.app/)
 
-### [AutoHandを採用したVRゲーム](https://github.com/U3cSeroH1/ZISSEN_VR_GAME)
+### 🚧[AutoHandを採用したVRゲーム](https://github.com/U3cSeroH1/ZISSEN_VR_GAME)
  * モノを握るときに，モノに合わせた手の握り方をしてくれるアセットを使ったVRゲーム
 
 ### [ソウルライクのアクションゲーム](https://github.com/U3cSeroH1/C3OCtpsActionGame)
@@ -18,6 +20,7 @@
 
 ### [WebGL駆動の10人対戦FPS](https://github.com/U3cSeroH1/PUN2TUTORIAL)
  * 10人対戦のWebGL駆動（WEB上で誰でもできる）のFPS．Photon2を使ってオンライン化した．
+ * 実際に[こちら](https://u3cseroh1.github.io/dpb_FPS_Photon2/)でプレイできます
 
 ### [高専文芸部用のWeb部活動日誌アプリ](https://github.com/U3cSeroH1/bungeilocalsns)
  * 部活動の日誌を電子化し，web上で行えるように．ログイン機能を搭載している．
