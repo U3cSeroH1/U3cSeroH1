@@ -24,6 +24,11 @@
  * 10人対戦のWebGL駆動（WEB上で誰でもできる）のFPS．Photon2を使ってオンライン化した．
  * 実際に[こちら](https://u3cseroh1.github.io/dpb_FPS_Photon2/)でプレイできます
 
+### [基本的なSNS（部内SNSのプロトタイプ）](https://github.com/U3cSeroH1/c3localsns)
+ * 大学サークルの部内SNSのプロトタイプ
+ * 2人での開発
+ * 自分はバックエンドの特にDiscordとのOauthとフロントエンドのWebSocketとの通信周りを開発
+
 ### [高専文芸部用のWeb部活動日誌アプリ](https://github.com/U3cSeroH1/bungeilocalsns)
  * 部活動の日誌を電子化し，web上で行えるように．ログイン機能を搭載している．
 <!--
