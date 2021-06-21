@@ -1,5 +1,7 @@
-# Hi there 👋
+## 自己紹介
 
+ Webアプリやネイティブアプリ，ゲームを趣味で開発しています．
+ 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=U3cSeroH1&layout=compact)
 
 ## 今までの成果物
