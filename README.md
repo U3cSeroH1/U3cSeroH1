@@ -31,6 +31,10 @@
 
 ### [高専文芸部用のWeb部活動日誌アプリ](https://github.com/U3cSeroH1/bungeilocalsns)
  * 部活動の日誌を電子化し，web上で行えるように．ログイン機能を搭載している．
+
+### [SteamVRPluginを使ったVRゲーム](https://github.com/H3cSeroH1/C3VRGAME_IMP)
+ * test
+
 <!--
 **U3cSeroH1/U3cSeroH1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
