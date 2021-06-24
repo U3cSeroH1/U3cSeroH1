@@ -33,7 +33,8 @@
  * 部活動の日誌を電子化し，web上で行えるように．ログイン機能を搭載している．
 
 ### [SteamVRPluginを使ったVRゲーム](https://github.com/H3cSeroH1/C3VRGAME_IMP)
- * test
+ * SteamVRPluginを使って作った基本的なVRゲームに，[vrTwix](https://github.com/rav3dev/vrtwix)の両手でものを持てたりする要素をはじめとした機能を追加したゲーム，
+ * vrTwixのカスタムハンドは当たり判定がなくなっていたので，それを復活させた点が特に注目してほしい点
 
 <!--
 **U3cSeroH1/U3cSeroH1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
