@@ -6,9 +6,7 @@
 
 ## 今までの成果物
 
-### 🚧[無駄に過保護なスマートウォッチヘルス管理アプリ](https://github.com/U3cSeroH1/sutegokappu_mudanimarumaru)
- * ハックツハッカソン ステゴカップに向けたアプリ
- * [ハックツ様のサイトでの紹介](https://topaz.dev/projects/d8fe6c5e3e57f73f58f0)
+
 
 ### 🚧[ポートフォリオサイト](https://github.com/U3cSeroH1/myIntroPage)
  * 今までに作ったものをかっこよく陳列する目的で作ったサイト
@@ -35,6 +33,11 @@
 ### [SteamVRPluginを使ったVRゲーム](https://github.com/H3cSeroH1/C3VRGAME_IMP)
  * SteamVRPluginを使って作った基本的なVRゲームに，[vrTwix](https://github.com/rav3dev/vrtwix)の両手でものを持てたりする要素をはじめとした機能を追加したゲーム，
  * vrTwixのカスタムハンドは当たり判定がなくなっていたので，それを復活させた点が特に注目してほしい点
+
+### 🚫[無駄に過保護なスマートウォッチヘルス管理アプリ](https://github.com/U3cSeroH1/sutegokappu_mudanimarumaru)
+ * ハックツハッカソン ステゴカップに向けたアプリ
+ * ローカルデータ消失 更新停止
+ * [ハックツ様のサイトでの紹介](https://topaz.dev/projects/d8fe6c5e3e57f73f58f0)
 
 <!--
 **U3cSeroH1/U3cSeroH1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
