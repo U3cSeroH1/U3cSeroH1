@@ -28,7 +28,7 @@
 
 ### [ソウルライクのアクションゲーム](https://github.com/U3cSeroH1/C3OCtpsActionGame)
  * unity/c#
- * アクションや要素をダークソウルに寄せたソウルライクというジャンルのゲームをオープンキャンパスにて作ったモノ
+ * アクションや要素をダークソウルに寄せたソウルライクというジャンルのゲームをオープンキャンパスにて制作
 
 ### [WebGL駆動の10人対戦FPS](https://github.com/U3cSeroH1/PUN2TUTORIAL)
  * unity/c#/Photon2/FastAPI
